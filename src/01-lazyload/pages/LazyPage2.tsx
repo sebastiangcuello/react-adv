@@ -1,8 +1,9 @@
-import React from 'react'
 
 export const LazyPage2 = () => {
   return (
-    <div>LazyPage2</div>
+    <div>
+      <h1>LazyPage2</h1>
+    </div>
   )
 }
 
